@@ -1,13 +1,19 @@
-## Hi! I'm Parvathi.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvathi-kumar)
-
-[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://www.codepen.io/paaaarv)
 
 
-Currently, I'm freelancing as I work on obtaining my degree (B.S. Graphic Information Technology - Full-Stack Web Development). I hope to further my career as a developer and continue to grow my skills. 
+<img width="75" height="70" alt="Horizontal PK Branding" src="https://github.com/user-attachments/assets/acfd34e3-5ed6-4d21-a17c-290b7925dbb3" /> Parvathi Kumar
 
-In my free time, I love hanging out with my nephew and niece 🛝 , trying new food around my neighborhood 🍲, and getting back into reading 📖 (just finished Remarkably Bright Creatures by Shelby van Pelt, highly recommend!). 
+Full-stack designer and developer with 3 years of experience who blends playful creativity
+with meticulous attention to detail in order to build adaptable, innovative technical solutions.
+
+Let's Connect 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvathi-kumar)   [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://www.codepen.io/paaaarv)
+
+
+Currently: 
+
+<strong>movie:</strong> The Matrix<br>
+<strong>tv show: </strong>The Great British Bake Off<br>
+<strong>book: </strong>The Boy Who Harnessed The Wind - William Kamkwamba<br>
 <!--
 **paaaarv/paaaarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
