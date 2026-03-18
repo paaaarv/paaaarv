@@ -1,10 +1,4 @@
 
-<img width="649" height="118" alt="header" src="https://github.com/user-attachments/assets/10108415-8fad-4520-a919-16f719614976" />
-
-
-
-<p><strong> Full-stack designer and developer with 3 years of experience who blends playful creativity
-with meticulous attention to detail in order to build adaptable, innovative technical solutions.</strong></p>
 
 <h2>Let's Connect </h2>
 <a href="https://www.parvathi-kumar.com"> Website </a> &emsp; <a href="https://www.linkedin.com/in/parvathi-kumar"> LinkedIn </a> &emsp; <a href="mailto: parvathi.n.kumar@gmail.com"> Email Me </a> 
@@ -19,9 +13,9 @@ with meticulous attention to detail in order to build adaptable, innovative tech
   
 <h2>Currently</h2>
 
-<strong>movie:</strong> The Matrix<br>
-<strong>tv show: </strong>The Great British Bake Off<br>
-<strong>book: </strong>The Boy Who Harnessed The Wind - William Kamkwamba<br>
+<strong>movie:</strong>Fight Club<br>
+<strong>tv show: </strong>Mythic Quest<br>
+<strong>book: </strong>Something In The Woods Loves You - Jarod Anderson<br>
 <!--
 **paaaarv/paaaarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
